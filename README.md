@@ -173,7 +173,6 @@ Contributions are welcome! Here's how you can help:
 
 **Author**: Anshika Mishra  
 **GitHub**: [@10anshika](https://github.com/10anshika) 
-**Email: anshikamishra.25000@gmail.com
 **Project Link**: [ANPR System](https://github.com/10anshika/Automatic-license--plate-recognition-system)
 
 For support, please open an issue in the GitHub repository or contact the maintainer.
